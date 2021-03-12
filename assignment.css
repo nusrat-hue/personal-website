@@ -1,0 +1,109 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    margin: 100px 150px 100px 100px;
+}
+nav a{
+    margin-top: 10px;
+    margin-left: 50px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    margin-right: 30px;
+}
+nav a:hover{
+    background-color: hotpink;
+}
+h1{
+    font-size: 50px;
+}
+.focus-name{
+    color: tomato;
+}
+.first-part{
+    display: flex;
+    width: 100%;
+}
+.text-part{
+    width: 60%;
+}
+.first-part img{
+    width: 60%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.link-button{
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+}
+.middle-part{
+    display: flex;
+}
+.middle-part img{
+    width: 60%;
+    float: right;
+    margin-right: 5%;
+    padding-right: 2%;
+    margin-top: 20%;
+}
+.word-highlight{
+    color: tomato;
+}
+.gym-part{
+    display: grid;
+    width: 30%;
+    padding: 20px 20px 20px 20px;
+}
+.gym-part img{
+    width: 50%;
+    float: left;
+    height: 80%;
+}
+.third-part{
+    display: flex;
+}
+.forth-part{
+    display: flex;
+    background-image: url(shapes/Group_33094_1.png);
+    height: 200px;
+}
+.link-button-second{
+    background-color: tomato;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 40px;
+    height: 40px;
+}
+.txt{
+    color: white;
+    margin-left: 40px;
+}
+.fifth{
+    margin-left: 520px;
+}
+.fifth-part{
+    color: blue;
+}
+.design{
+    margin-left: 480px;
+}
+.icon img{
+    margin-left: 50px;
+    width: 80px;
+}
+.project{
+    margin-left: 300px;
+    padding: 20px 20px 20px 20px;
+}
+.icon{
+    text-align: center;
+}
